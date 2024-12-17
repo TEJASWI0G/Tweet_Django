@@ -25,3 +25,5 @@ static/
 # System files (macOS, Windows)
 .DS_Store
 Thumbs.db
+
+db.sqlite3
